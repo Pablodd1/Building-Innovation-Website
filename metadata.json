@@ -1,0 +1,7 @@
+{
+  "name": "Building Innovations - AI Interior Design",
+  "description": "A premium wallpaper and interior design platform featuring an AI-powered room visualizer and smart calculation tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
